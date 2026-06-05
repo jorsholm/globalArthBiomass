@@ -3,6 +3,8 @@
 Data and code for analyzing global patterns of insect biomass using Lifeplan data.
 
 ## Folder Structure
+
+```
 biomass/
 ├── data/
 │   ├── raw_data/                  # Raw data of biomass, snow depth for sites near glaciers, and HFI
@@ -12,10 +14,11 @@ biomass/
 │   └── site_with_elevation.rds    # Extracted elevation from Copernicus DEM
 │
 └── code/
-├── utils.R                    # Helper functions
-├── 1_compile_data.R           # Compile climate, weather, elevation, and HFI data
-├── 2_climate_residuals.R      # Model seasonal variation in climate and calculate residual values
-├── 3_CZ                       # Extract climate zone for each site
-└── 4_biomass_models.R         # Spatial and seasonal analyses
+    ├── utils.R                    # Helper functions
+    ├── 1_compile_data.R           # Compile climate, weather, elevation, and HFI data
+    ├── 2_climate_residuals.R      # Model seasonal variation in climate and calculate residual values
+    ├── 3_CZ                       # Extract climate zone for each site
+    └── 4_biomass_models.R         # Spatial and seasonal analyses
+```
 
 > Each script in `code/` builds on the previous, creating files necessary for the next step.
