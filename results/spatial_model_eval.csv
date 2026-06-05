@@ -1,0 +1,8 @@
+var,round,cand,r2
+mean,base,autocorr,0.05795142997752667
+mean,climate,avg_t2m,0.1156448148826098
+mean,climate,avg_swvl1,0.1436338653458743
+mean,human,lat*HFI,0.17768723859276037
+peak,base,autocorr,0.04580157412121266
+peak,climate,avg_t2m,0.08269938055141957
+peak,climate,avg_swvl1,0.12949733383880146

@@ -53,7 +53,7 @@ random/
 plots/
 code/plot_comb.R
 code/data_distribution.R
-results/
+results/*.rds
 code/era5/
 code/0*
 code/download_*
