@@ -47,3 +47,16 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+trash/
+random/
+plots/
+code/plot_comb.R
+code/data_distribution.R
+results/
+code/era5/
+code/0*
+code/download_*
+data/sample*
+data/clim*.rds
+data/CZ_sites*

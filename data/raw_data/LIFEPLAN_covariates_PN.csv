@@ -1,0 +1,253 @@
+NAME,TYPE,TEAM,TEAM_ID,SITE_ID,annual_mean_temperature,diurnal_temperature_range,temperature_seasonality,annual_precipitation,precipitation_seasonality,KG_climate_classification,human_footprint_index,human_influence_index,population_density,night_light,esa_worldcover_50,esa_worldcover_500,elevation
+Wurzburg_Urban,Urban,Wurzburg,21,690,9.35,7.7,6.57,607,13,10,32.9,59.6,13.771,11.5703,50,30,277
+Wurzburg_Natural,Natural,Wurzburg,21,593,8.59,7.75,6.44,758.5,13.4,19,9.3,28.8,0,0.0844,10,10,424
+Berchtesgaden_Urban,Urban,Berchtesgaden,23,692,8.01,9.7,7.28,1506.5,30.2,19,32.9,42,6.468,3.4091,30,10,597
+Berchtesgaden_Natural,Natural,Berchtesgaden,23,595,6.2,9.89,7.09,2296.1,29.6,19,7,14,0.338,0,10,10,888
+Thailand_Urban,Urban,Thailand,25,694,25.52,9.2,2.87,1844.1,85.5,4,14,21.4,0.418,0.869,20,10,408
+Thailand_Natural,Natural,Thailand,25,597,25.75,9.2,2.91,1261,84.9,4,21,22,0.209,0.9242,10,10,403
+Fetsund,Nordic,Fetsund,26,783,6.02,6.9,7.5,823.6,25.2,19,42.3,46,5.144,15.145,10,10,134
+Tartu_Urban,Urban,Tartu,27,695,5.77,6.3,8.03,700.7,32.7,19,35.2,50.7,10.362,40.2901,30,50,77
+Tartu_Natural,Natural,Tartu,27,598,5.8,6.4,8.03,716.2,31.6,19,19.1,33.5,0.001,0.6438,10,40,69
+Moncton_Urban,Urban,Moncton,29,697,5.77,8.22,9.45,1307.6,8.4,19,13.6,31,0,0.6861,10,10,67
+Moncton_Natural,Natural,Moncton,29,600,5.78,8.22,9.45,1307.3,8.4,19,13.6,31,0,0.6492,10,10,66
+Aberystwyth_Natural,Natural,Aberystwyth,30,601,8.45,6,3.96,2044.3,26.9,10,13.1,30,0.027,0,30,30,339
+Aberystwyth_Urban,Urban,Aberystwyth,30,698,9.95,5.26,3.84,1576.2,24.4,10,32.3,46.8,24.539,8.8903,10,10,89
+Cordoba_Urban,Urban,Cordoba,32,699,17.21,10.5,4.82,933.7,73.2,15,32.4,39.8,46.268,60.5137,10,50,430
+Cordoba_Natural,Natural,Cordoba,32,602,14.94,10.1,4.5,1185.3,73.7,16,13.6,17,0.011,0.3963,10,10,852
+Ecuador_Urban,Urban,Ecuador,33,700,24.85,6.1,0.57,3210.3,18.5,1,33,37.5,62.91,34.2974,50,50,254
+Ecuador_Natural,Natural,Ecuador,33,603,24.88,6.1,0.61,3084.4,19.6,1,3.7,6,0,0,10,10,228
+Parakou_Natural,Natural,Parakou,34,604,26.61,11.1,1.55,1256.9,89,4,7.5,21.5,0,0,10,10,344
+Parakou_Urban,Urban,Parakou,34,701,26.44,11.2,1.59,1228.5,87.9,4,37.1,50.1,79.621,11.3555,50,50,365
+Kerala_Natural,Natural,Kerala,35,605,26.51,7.2,0.85,2269.8,59.1,2,9,14,0.868,0,10,10,120
+Kerala_Urban,Urban,Kerala,35,702,26.52,4.18,0.69,1970.3,61.8,4,36.9,52.6,124.093,12.8528,10,10,37
+FrenchAntarctic_Natural,Natural,FrenchAntarctic,37,607,4.12,5.3,2.01,759.4,13.1,30,NA,NA,NA,0,30,30,3
+FrenchAntarctic_Urban,Urban,FrenchAntarctic,37,704,4.07,5.21,2,783.6,13.1,30,NA,NA,NA,0,30,60,16
+Zackenberg_Natural,Natural,Zackenberg,40,610,-11.28,4.3,9.59,336,34.5,30,0,4,0,0,90,90,39
+Louisiana_Natural,Natural,Louisiana,41,611,19.66,9.5,6.05,1707,13.1,9,3,14,0,0,10,10,16
+Louisiana_Urban,Urban,Louisiana,41,707,19.72,9.3,6,1857,13.9,9,34.9,49.9,5.176,22.8304,10,10,9
+Dnipro_Natural,Natural,Dnipro,42,612,8.96,7.7,9.42,521.6,16.5,19,11.3,22.3,0,0,10,10,100
+Dnipro_Urban,Urban,Dnipro,42,708,8.92,7.7,9.39,537,15.9,19,18.4,37.5,0.094,0,10,10,99
+Armidale_Natural,Natural,Armidale,43,613,11.96,10,4.73,844.1,30.5,10,3,5.2,0.014,0,10,10,1187
+Armidale_Urban,Urban,Armidale,43,709,13.02,10.13,4.72,777.1,31.3,10,18.9,39.6,1.416,6.8072,30,30,1053
+StLouis_Natural,Natural,StLouis,44,614,13.26,9.8,9.09,1145.9,21.1,18,36.7,42,0,0.7721,10,10,207
+StLouis_Urban,Urban,StLouis,44,710,13.35,9.6,9.22,1145.6,21.6,18,37.9,60,13.567,39.9456,10,10,174
+Lebanon_Natural,Natural,Lebanon,45,615,10.39,8.18,6.39,1526.4,93.1,13,10.7,22,0.018,0,30,30,1625
+Lebanon_Urban,Urban,Lebanon,45,711,12.9,9.75,6.39,1214.2,96.7,13,37,38.7,11.052,5.574,10,10,1183
+Malakand_Natural,Natural,Malakand,47,617,18.97,13.1,7.84,842.4,52.7,12,16,15,0.082,0,20,20,847
+Malakand_Urban,Urban,Malakand,47,713,19.52,13.5,7.72,1042.7,50.8,9,22,31,235.368,3.7608,50,50,727
+RhineMain_Natural,Natural,RhineMain,48,618,8.07,7.28,6.24,1047.9,13.3,19,8,14,0,0,10,10,480
+RhineMain_Urban,Urban,RhineMain,48,714,9.97,7.48,6.63,877.1,10.7,10,37.4,45.9,29.273,13.7374,50,50,134
+Zobelboden_Natural,Natural,Zobelboden,50,619,6.87,9.1,7.02,1285.8,26,19,5,18,0,0,10,10,834
+Zobelboden_Urban,Urban,Zobelboden,50,715,8.73,9,7.23,1213.3,25.5,19,6,25.3,2.282,1.9586,10,10,477
+Peru_Natural,Natural,Peru,52,621,25.45,7.5,0.42,2166,41.4,1,2,7.8,0.013,0,10,10,232
+Peru_Urban,Urban,Peru,52,717,25.49,7.6,0.43,2246.1,41.7,1,3,7.7,17.566,1.728,50,10,208
+BaixoSabor_Natural,Natural,BaixoSabor,53,622,13.37,10,5.86,748.6,47.7,13,2.1,21,0,0,10,20,620
+BaixoSabor_Urban,Urban,BaixoSabor,53,718,13.62,10.7,5.74,708.6,48.7,13,6.2,18,0.082,0.7964,10,30,549
+Czechia_Natural,Natural,Czechia,54,623,5.64,8,6.43,892.2,35.4,20,7.4,18,0.114,0,10,10,1016
+Czechia_Urban,Urban,Czechia,54,719,9.01,8.1,7.11,606.8,40.4,19,35.3,58.8,26.962,16.6942,30,50,396
+LagoMaggiore_Natural,Natural,LagoMaggiore,55,624,12.76,8.31,6.93,1444,32.4,9,37.7,43,0,2.1255,10,10,312
+LagoMaggiore_Urban,Urban,LagoMaggiore,55,720,13.33,8.1,7.07,1593.9,36.7,9,34.9,42,22.097,19.6167,10,10,222
+Bamako_Natural,Natural,Bamako,56,625,27.69,11.4,2.49,1037.2,114.9,4,10.5,18,0,0,20,20,361
+Bamako_Urban,Urban,Bamako,56,721,27.6,11.86,2.62,925.4,122.4,4,31.3,59.3,40.638,14.0201,50,10,355
+Bonga_Natural,Natural,Bonga,57,626,17.63,11.27,0.76,2204.4,36.6,10,13.8,18,1.462,0,10,10,1816
+Bonga_Urban,Urban,Bonga,57,722,18.43,10.61,0.71,2003.4,36.3,10,15,36,27.904,2.3734,10,10,1662
+Tours_Natural,Natural,Tours,58,627,11.85,7.87,5.54,721.8,16.8,10,24,41.7,0.053,0.7193,10,10,101
+Tours_Urban,Urban,Tours,58,723,11.85,7.8,5.52,690.5,16.6,10,46,60,17.127,21.3211,10,10,86
+Hyytiala,Nordic,Hyytiala,60,786,3.85,5.69,8.24,719.3,33.9,20,5,12.5,0.07,1.4846,10,10,181
+Israel_Natural,Natural,Israel,62,630,19.41,11.83,5.9,87.2,100.3,6,10,14,0,0,60,60,493
+Israel_Urban,Urban,Israel,62,726,17.41,11.53,5.87,101.6,98.8,5,31.2,25.9,20.68,41.9402,50,50,827
+Paimpont_Natural,Natural,Paimpont,65,633,10.99,7.4,4.53,972.8,25.2,10,4.5,10.5,0.972,0,10,10,167
+Paimpont_Urban,Urban,Paimpont,65,729,11.57,7.42,4.74,761,20.5,10,46,60,169.708,51.3073,50,50,44
+KeoSeima_Urban,Urban,KeoSeima,67,731,26.95,8.8,1.06,2332.2,78.2,2,5,16,11.817,0,10,10,135
+KeoSeima_Natural,Natural,KeoSeima,67,635,24.8,8.4,0.92,2724.6,78.6,2,8.9,14,0,0,10,10,505
+Bialowieza_Urban,Urban,Bialowieza,68,732,7.55,7.2,7.9,628.3,30,19,15.4,21.5,2.729,4.2456,10,10,165
+Bialowieza_Natural,Natural,Bialowieza,68,636,7.45,7.2,7.87,638.3,30.1,19,9.7,18,0,0,10,10,178
+SanFrancisco_Urban,Urban,SanFrancisco,69,733,13.14,6.81,2.2,751.8,92.2,13,35.4,52,10.408,21.9089,10,10,77
+SanFrancisco_Natural,Natural,SanFrancisco,69,637,14.51,13.3,5.06,1124.5,91.4,13,7,14,0.115,0.0787,30,30,361
+ChiayiCity_Urban,Urban,ChiayiCity,71,735,23.14,7.23,3.98,2705.1,88.2,15,36,46,39.603,18.5829,10,10,70
+ChiayiCity_Natural,Natural,ChiayiCity,71,639,21.56,7.4,3.84,3831.1,83.8,15,15.6,18,0,0.9389,10,10,411
+Mizoram_Urban,Urban,Mizoram,72,736,22.07,9,3.5,2507.8,76.1,15,5,10.5,2.177,0.2517,10,10,560
+Mizoram_Natural,Natural,Mizoram,72,640,20.72,9.2,3.56,2873,78.1,15,10.5,10,0.619,0,10,10,762
+Termoli_Urban,Urban,Termoli,73,737,16.51,4.59,5.7,479,32.5,9,44.9,40,65.217,63.8053,50,50,24
+Termoli_Natural,Natural,Termoli,73,641,16.35,6.21,5.88,478.3,30.6,9,36.8,42.1,1.239,4.5496,10,60,7
+CamposDoJordao_Urban,Urban,CamposDoJordao,75,738,14.94,9,2.13,2206,64.6,10,28.9,38,9.308,8.1467,10,10,1656
+CamposDoJordao_Natural,Natural,CamposDoJordao,75,642,15.21,9,2.16,2130.8,65.6,10,7,14,0.005,0,30,10,1605
+Donana_Natural,Natural,Donana,76,643,18.15,6.76,4.57,659.1,71.5,12,25.9,38,0.043,0.9906,20,30,35
+Donana_Urban,Urban,Donana,76,739,18.25,10.5,5.49,638.3,69.4,12,31,45,23.617,81.0928,50,50,76
+Trondheim,Nordic,Trondheim,80,788,4.68,6.22,6.17,1342.9,21.8,20,25.7,42,0.001,0,10,10,317
+Tucuman_Urban,Urban,Tucuman,81,742,18.74,8.7,4.2,1541.3,78,15,32.7,39.2,3.131,14.5651,10,10,589
+Tucuman_Natural,Natural,Tucuman,81,646,17.25,8.72,4.07,1542.5,78.6,16,16,28.3,0.133,1.8144,10,10,787
+HunsruckHochwald_Urban,Urban,HunsruckHochwald,83,744,9.05,7.2,6.18,882.3,13.4,10,35.3,31.9,6.258,6.5394,50,10,349
+HunsruckHochwald_Natural,Natural,HunsruckHochwald,83,648,7.73,7.2,5.78,992.1,11,10,7.3,26.4,0,0,10,10,596
+Konnevesi,Nordic,Konnevesi,84,789,3.62,4.69,8.79,726.9,32.6,20,14.7,27,0.649,4.1395,10,10,103
+Kyoto_Urban,Urban,Kyoto,85,745,14.14,7.25,7.88,2037.6,22.6,9,10,18,2.386,0.5525,50,10,260
+Kyoto_Natural,Natural,Kyoto,85,649,13.23,6.74,7.9,2549.3,20.1,9,7.7,18,0.358,0,10,10,445
+Bourges_Natural,Natural,Bourges,86,650,11.75,8.1,5.81,804.3,12.5,10,17.4,38.4,0,0.4185,10,10,147
+Bourges_Urban,Urban,Bourges,86,746,11.65,8,5.8,816,12.2,10,37.5,43,2.209,10.8837,10,30,154
+Tirol_Natural,Natural,Tirol,87,651,0.5,9.9,6.86,1837.6,38.1,30,8.2,18.6,0,0,30,30,1763
+Tirol_Urban,Urban,Tirol,87,747,9.26,9.8,6.75,985.4,38,19,42.1,57.3,20.409,13.7348,30,50,606
+Toolik_Natural,Natural,Toolik,88,652,-9.86,6.99,13.29,457.4,84.2,24,6.3,8,0,0,30,30,732
+Lammi,Nordic,Lammi,89,790,4.44,6.08,8.27,704.6,33.2,20,13.8,30,0.113,1.8641,10,10,138
+Cristalino_Natural,Natural,Cristalino,90,653,25.4,8.8,0.61,2367.7,68.5,2,2,8.5,0.003,0,10,10,259
+Cristalino_Urban,Urban,Cristalino,90,748,25.47,8.8,0.63,2123.7,70.1,4,21,9.1,0.042,1.9746,10,10,304
+Antigua_Urban,Urban,Antigua,91,749,25.26,1.4,0.97,1413,41.2,2,18,43,0.042,0.5962,10,10,190
+Antigua_Natural,Natural,Antigua,91,654,25.26,1.4,0.97,1412.9,41.2,2,18,43,0.041,0.5958,10,10,190
+Lisbon_Urban,Urban,Lisbon,92,750,15.83,5.8,3.49,755.4,63.9,13,44.2,52.9,3.951,37.512,10,10,132
+Lisbon_Natural,Natural,Lisbon,92,655,16.55,10.18,4.46,670.5,62.3,12,13,31.2,0,0,10,30,38
+BajaCaliforniaSur_Urban,Urban,BajaCaliforniaSur,93,751,22.33,12.81,3.85,390.6,130.8,8,7.3,14,5.914,5.6001,20,20,487
+BajaCaliforniaSur_Natural,Natural,BajaCaliforniaSur,93,656,23.14,11.2,4.05,305.3,128.7,6,6,14,0,0,20,20,376
+Perth_Urban,Urban,Perth,94,752,18.41,8.87,3.98,780.7,84.3,12,38.5,55.2,0.015,6.4259,10,10,49
+Perth_Natural,Natural,Perth,94,657,18.15,9.56,4.05,843.4,81.7,12,4.6,15.8,0,0,10,10,21
+Iceland_Natural,Natural,Iceland,95,658,4.33,5.28,4.94,1594.1,24.4,20,8,18.1,0,1.118,30,30,9
+Iceland_Urban,Urban,Iceland,95,753,4.55,5.7,4.83,1381.3,22.7,20,36.2,47.4,4.348,56.0196,30,30,64
+Valencia_Urban,Urban,Valencia,96,754,18.15,6.68,5.35,519.6,48.5,12,45.1,64,195.39,59.4913,10,50,25
+Valencia_Natural,Natural,Valencia,96,659,18.16,7.24,5.39,545.6,55,12,28.2,50,0.046,1.8549,10,10,1
+Kiiminki,Nordic,Kiiminki,98,791,2.35,6.1,9.15,728.2,28.1,20,14.8,28.4,0.434,0,10,10,52
+Yataros_Urban,Urban,Yataros,100,757,12.56,8.78,0.38,1301.4,35.7,10,13.4,22,0.269,0,30,30,2774
+Yataros_Natural,Natural,Yataros,100,662,14.91,9.65,0.23,1977.1,33.6,10,7,16.4,0.109,0,10,10,2333
+LosMagnolios_Natural,Natural,LosMagnolios,101,663,16.93,7.44,0.3,4680.5,42.4,10,6,18,0,0,10,10,1889
+LosMagnolios_Urban,Urban,LosMagnolios,101,758,17.09,7.73,0.34,3851.1,42.5,10,12.5,21,0.429,0.6786,30,30,1965
+Chiapas_Natural,Natural,Chiapas,102,664,21.81,7.35,1.88,1530.2,60.9,4,6,10,1.28,0,10,10,759
+Chiapas_Urban,Urban,Chiapas,102,759,21.59,8.04,1.77,1471.7,68.4,4,5,22,0.979,0.7198,30,30,840
+Vienna_Urban,Urban,Vienna,104,761,10.42,8.3,7.55,628.7,29.5,19,45.4,60,133.737,37.4197,10,50,197
+Vienna_Natural,Natural,Vienna,104,666,9.63,8.3,7.32,682.7,28.4,19,30.9,51.3,2.352,1.9206,10,10,339
+Ziarat_Natural,Natural,Ziarat,105,667,12.34,10.33,7.45,515.9,90.1,16,5.2,22,0.266,0,20,20,2448
+Ziarat_Urban,Urban,Ziarat,105,762,11.88,10.81,8.2,638.6,68.7,27,9,23,3.062,0.14,30,30,2510
+Seili,Nordic,Seili,106,792,5.75,3.27,7.29,683,31.4,19,7,18,0.233,0,10,10,14
+Auckland_Natural,Natural,Auckland,108,669,15.4,3.2,2.75,1330.9,20,10,19.8,35.1,1.389,0.3067,10,10,83
+Auckland_Urban,Urban,Auckland,108,764,15.65,4.08,2.85,1224.4,21.7,10,31.1,39.9,20.763,8.3547,10,10,34
+Guelph_Natural,Natural,Guelph,110,671,7.75,8.72,9.16,959.5,12,19,28.3,47.3,0,1.1907,10,10,311
+Guelph_Urban,Urban,Guelph,110,766,7.45,8.91,9.3,899.1,12.4,19,42.2,54,0.081,11.294,10,10,338
+Narsarsuaq_Urban,Urban,Narsarsuaq,114,769,0.22,5.6,6.79,940.1,22.1,20,12.3,24.9,0.211,0.4993,50,50,49
+Narsarsuaq_Natural,Natural,Narsarsuaq,114,675,-0.24,5.51,6.68,1029.6,23.2,20,5.2,8,0,0,30,30,150
+Linne,Nordic,Linne,115,793,7.65,3.44,6.02,551.7,23.2,10,22.4,43,0.069,1.0254,30,30,42
+Telperion_Urban,Urban,Telperion,116,770,17.44,12.46,3.8,641.5,79.1,16,35.8,41.6,0.004,3.7997,30,30,1381
+Telperion_Natural,Natural,Telperion,116,676,17.5,12.33,3.79,710,80.8,16,8.2,7,0,0,30,30,1341
+CambridgeBay_Natural,Natural,CambridgeBay,117,677,-13.45,6.42,15.55,243.2,60.5,20,12.7,25,0.016,3.6335,90,90,15
+CambridgeBay_Urban,Urban,CambridgeBay,117,821,-13.45,6.49,15.62,242.6,60.8,20,10.9,24.4,0.001,5.7177,60,60,21
+CapeTown_Natural,Natural,CapeTown,118,678,15.61,3.06,2.11,1069.8,65.3,13,30.4,36,0.003,1.5724,10,10,148
+CapeTown_Urban,Urban,CapeTown,118,771,15.92,4.51,2.42,949.2,64.2,13,36.5,52,7.619,14.0136,10,10,151
+Oulanka,Nordic,Oulanka,120,794,0.51,5.72,9.47,748.4,31.7,20,6.9,11,0.113,0,10,10,185
+Asa,Nordic,Asa,122,796,6.38,5.9,6.59,760.7,23.4,19,7.8,22,0,0.0237,10,10,200
+Erken,Nordic,Erken,123,797,6.29,5.58,7.01,627.9,28,19,7.3,19.7,0.064,0,10,10,22
+Grimsö,Nordic,Grimsö,124,382,5.81,6.6,7.34,774.3,24.9,20,4.3,18,0.09,0.6459,10,10,119
+Grims,Nordic,Grimsö,124,798,5.81,6.6,7.34,774.7,24.9,20,4,18,0.09,0.676,40,10,118
+Bolmen,Nordic,Bolmen,125,799,6.73,6.41,6.45,956.5,20.6,19,9.4,16.1,0,0,10,10,156
+Svartberget,Nordic,Svartberget,126,800,2.43,6.7,8.53,751.4,34.8,20,2.7,10,0.073,0,10,10,233
+Skogaryd,Nordic,Skogaryd,127,801,7.01,6.11,6.51,934.1,19.3,19,6.4,18,0,0,10,10,86
+PodilskiTovtry_Natural,Natural,PodilskiTovtry,128,680,8.82,7.8,8.49,689.8,45.6,19,10.8,25.4,0,0,10,10,213
+PodilskiTovtry_Urban,Urban,PodilskiTovtry,128,773,8.93,7.9,8.5,648.6,46,19,19,42.7,0,0.6334,10,10,222
+Kilpisjarvi,Nordic,Kilpisjarvi,130,802,-1.28,5.4,8.39,666.5,37.4,20,5.5,12,0,0,30,30,541
+Kyrgyzstan_Natural,Natural,Kyrgyzstan,134,684,2.4,6.03,7.47,955,39.6,20,5.2,14,0.018,0,10,10,2238
+Kyrgyzstan_Urban,Urban,Kyrgyzstan,134,777,6.52,5.37,7.14,622.3,39.1,19,20.1,39,8.961,2.7747,30,30,1759
+Kashmir_Natural,Natural,Kashmir,135,685,3.92,10.3,8.21,1201.6,41.6,19,10,16.8,0,0,30,10,2908
+Kashmir_Urban,Urban,Kashmir,135,778,6.09,10.3,8.2,1657.2,41.5,19,23.3,18,4.946,6.5143,10,10,2708
+Yellowknife_Urban,Urban,Yellowknife,136,779,-4.15,6.39,14.63,391.7,43.9,20,32.8,38,18.289,67.4121,60,50,181
+Yellowknife_Natural,Natural,Yellowknife,136,686,-4.45,7.34,15.02,396.7,45.9,20,7.7,8,0,0,10,10,224
+Durban_Urban,Urban,Durban,138,781,20.55,7.01,2.56,947.2,47.8,9,34,51.3,18.467,12.5142,50,10,152
+Durban_Natural,Natural,Durban,138,688,20.25,7.45,2.56,994.3,51.6,9,22.6,36.3,0.185,1.6207,20,10,185
+Bariloche_Natural,Natural,Bariloche,139,689,8.04,8.35,4.49,1654.3,68.1,13,10.7,14,0.09,0.6877,10,10,865
+Bariloche_Urban,Urban,Bariloche,139,782,8.28,8.6,4.61,1319.8,70,13,31.4,38,47.761,54.0027,10,50,868
+Värriö,Nordic,Värriö,142,371,-0.79,5.83,8.86,819.5,32,20,0,3.9,0.028,0,10,10,366
+HT4,Nordic Hierarchical,Sweden,161,851,6.05,6.8,7.43,651.9,27.6,19,10.6,26.3,0,0.2829,10,10,24
+HT5,Nordic Hierarchical,Sweden,161,852,6.03,6.94,7.45,662.3,28,19,6.3,34,0,0.0709,10,10,34
+HT6,Nordic Hierarchical,Sweden,161,853,6.05,6.9,7.44,661.5,28,19,6.6,32.8,0,0,10,10,33
+HT7,Nordic Hierarchical,Sweden,161,854,6.01,6.9,7.45,663.4,28,19,5.1,30.9,0,0.0265,10,10,35
+SH1,Nordic Hierarchical,Sweden,161,855,5.29,6.5,7.46,735.7,29.5,20,4,14,0,0,10,10,157
+SH2,Nordic Hierarchical,Sweden,161,856,5.37,6.6,7.46,739.5,29.4,20,4.2,14,0,0,10,10,154
+SH3,Nordic Hierarchical,Sweden,161,857,5.53,6.55,7.47,735.5,29.9,20,6.7,17.6,0,0,10,10,126
+SH4,Nordic Hierarchical,Sweden,161,858,5.45,6.41,7.47,720.1,30.2,20,4.8,14,0,0,10,10,131
+SH5,Nordic Hierarchical,Sweden,161,859,5.32,6.5,7.47,732.8,29.5,20,4,14,0,0,10,10,152
+SH6,Nordic Hierarchical,Sweden,161,860,5.35,6.5,7.48,733.3,29.5,20,4,14,0,0,10,10,148
+SH7,Nordic Hierarchical,Sweden,161,861,5.33,6.5,7.47,737.1,29.6,20,4,14,0,0,10,10,150
+SF1,Nordic Hierarchical,Sweden,161,862,5.35,6.7,7.33,756.4,26.7,20,11.6,34.2,0,0,10,10,191
+SF2,Nordic Hierarchical,Sweden,161,863,5.54,6.7,7.42,727,26.8,20,9.7,33.1,0,0.0108,10,10,162
+SF3,Nordic Hierarchical,Sweden,161,864,5.64,6.61,7.49,682.1,26.7,20,19.3,25,0,0.0676,10,10,135
+SF4,Nordic Hierarchical,Sweden,161,865,5.59,6.6,7.43,731.5,26.2,20,35.8,44.8,0,4.7506,10,10,140
+SF5,Nordic Hierarchical,Sweden,161,866,5.38,6.7,7.36,749.9,26.7,20,12.8,35,0,0.0055,10,10,175
+SF6,Nordic Hierarchical,Sweden,161,867,5.4,6.7,7.37,733.1,26.7,20,14,35,0,0.313,10,10,172
+SF7,Nordic Hierarchical,Sweden,161,868,5.36,6.7,7.35,742.1,26.7,20,13.3,34.8,0,0.0109,10,10,186
+HT3,Nordic Hierarchical,Sweden,161,850,6.05,6.8,7.4,659,27.1,19,3,18.5,0.001,0,10,10,32
+HT2,Nordic Hierarchical,Sweden,161,849,5.95,6.97,7.43,675.2,27.6,19,4.3,32.1,0,0,10,10,50
+HT1,Nordic Hierarchical,Sweden,161,848,5.99,6.94,7.46,664,28,19,5.2,33.7,0,0.1121,10,10,38
+UA7,Nordic Hierarchical,Sweden,161,847,5.9,6.85,7.27,668.4,27.9,19,6.3,14,0,0,10,10,59
+UA6,Nordic Hierarchical,Sweden,161,846,5.89,6.84,7.27,668.5,27.9,19,6,14,0.007,0,10,10,64
+UA5,Nordic Hierarchical,Sweden,161,845,5.85,6.8,7.27,668.8,28,19,7.1,14,0,0,10,10,62
+UA4,Nordic Hierarchical,Sweden,161,844,5.95,6.9,7.27,650.7,27.8,19,17.9,17.9,0,0,10,10,59
+UA3,Nordic Hierarchical,Sweden,161,843,5.85,7,7.29,665.2,27.6,19,6,14,0.006,0,10,10,58
+UA1,Nordic Hierarchical,Sweden,161,841,5.86,6.81,7.26,668.8,28,19,7.2,14,0,0,10,10,59
+UA2,Nordic Hierarchical,Sweden,161,842,5.85,6.87,7.31,658.7,28,19,6.7,14,0.005,0,10,10,65
+ORG,madagascar,Madagascar,181,961,25.22,4.76,1.22,989.8,105.3,4,9.9,21.5,0,0,20,20,72
+MDA,madagascar,Madagascar,181,962,19.52,8.1,1.24,1893.3,116.8,16,7.6,14,0,0,10,10,1042
+ANK,madagascar,Madagascar,181,963,25.48,10.13,1,1600.5,122.2,4,9,18,0,0,10,10,118
+LKB,madagascar,Madagascar,181,964,25.08,2.97,1.03,2083.4,85.7,2,10.2,19.8,0.004,0.3341,10,10,218
+DRN,madagascar,Madagascar,181,965,24.56,7.98,1.33,1128.1,103.2,4,7.2,22,0,0,10,10,153
+MRJ,madagascar,Madagascar,181,966,18.6,7.83,2.04,2502.6,63.9,10,4,10,0,0,10,10,849
+MSL1,madagascar_hierarchical,Madagascar,181,967,20.23,5.7,2.15,4549.1,29,9,4.4,14,0,0,10,10,651
+MSL2,madagascar_hierarchical,Madagascar,181,968,22.27,5.05,2.05,3784.9,29.9,1,6.1,14,0,0,10,10,332
+MSL3,madagascar_hierarchical,Madagascar,181,969,21.47,5.24,2.08,4734.9,29.5,1,4,14,0,0,10,10,480
+MSL4,madagascar_hierarchical,Madagascar,181,970,20.52,5.4,2.14,4364.9,29.3,9,5.2,14,0,0,10,10,688
+MSL5,madagascar_hierarchical,Madagascar,181,971,23.48,5.09,2.02,3751.9,28.9,1,14,14,0,0,10,10,123
+MSL6,madagascar_hierarchical,Madagascar,181,972,23.35,5.1,2.02,3743.2,29,1,13.9,14,0,0,10,10,132
+MSL7,madagascar_hierarchical,Madagascar,181,973,23.68,5.04,2,3694.8,28.9,1,13.9,14,0,0,10,10,43
+MRT1,madagascar_hierarchical,Madagascar,181,974,18.48,8.21,2.11,1798.8,97.8,16,6.8,17.1,0,0,10,10,1162
+MRT2,madagascar_hierarchical,Madagascar,181,975,19.99,8.11,2.12,1834.3,96.1,16,3.7,14,0,0,10,10,834
+MRT3,madagascar_hierarchical,Madagascar,181,976,18.25,8.36,2.1,1916.4,102.6,16,3,14,0,0,10,10,1155
+MRT4,madagascar_hierarchical,Madagascar,181,977,18.5,8.31,2.13,1846.6,102.3,16,3,14,0,0,10,10,1107
+MRT5,madagascar_hierarchical,Madagascar,181,978,18.92,8.2,2.12,1880.6,97.9,16,3,14,0,0,10,10,1016
+MRT6,madagascar_hierarchical,Madagascar,181,979,18.95,8.2,2.12,1884.7,97.9,16,3,14,0,0,10,10,1032
+MRT7,madagascar_hierarchical,Madagascar,181,980,19.37,8.17,2.13,1866.4,97.1,16,3,14,0,0,10,10,948
+AKF,madagascar,Madagascar,181,981,26.68,9.7,1.32,1777.5,117.5,4,10.7,18,0,0,10,10,121
+BBL,madagascar,Madagascar,181,982,25.99,5.49,1.09,1624,133.8,4,3,17,0,0,10,10,55
+NRK,madagascar,Madagascar,181,983,25.75,9.6,1.11,1536,124.6,4,6,9,0,0,10,10,145
+BMR,madagascar,Madagascar,181,984,25.49,10.43,1.67,1454.5,119.6,4,6.7,13,0,0,10,10,90
+CNF,madagascar,Madagascar,181,985,25.93,11.1,1.75,984.1,130.3,4,4,14,1.513,0,10,10,57
+KRM,madagascar,Madagascar,181,986,25.84,7.65,1.8,681,144.5,8,2,11,0,0,10,10,34
+ABT,madagascar,Madagascar,181,987,16.11,9.9,2.39,2086.6,102.1,16,14,18,0.555,0,10,10,1592
+AZB,madagascar,Madagascar,181,988,17.21,8.69,2.48,1685.2,94.1,16,5,18,0.073,0,10,10,1320
+ATV,madagascar,Madagascar,181,989,18.27,7.5,2.46,2059,71.6,10,3,10,0.053,1.2874,10,10,1011
+MMZ,madagascar,Madagascar,181,990,17.47,7,2.43,2578,61.7,10,8.3,20.5,0.02,0,10,10,1121
+BTP,madagascar,Madagascar,181,991,21.49,6.18,2.3,3128.9,45.2,1,7.1,15.3,0,0,10,10,429
+ALV,madagascar,Madagascar,181,992,23.79,2.33,1.75,3910,37.9,1,10.6,24.9,0.158,0,10,10,47
+MNN1,madagascar_hierarchical,Madagascar,181,993,22.06,3.74,2.06,4104.6,36,1,4,16.5,0,0,10,10,346
+MNN2,madagascar_hierarchical,Madagascar,181,994,21.91,3.73,2.06,4177,36.2,1,4,18,0,0,10,10,395
+MNN3,madagascar_hierarchical,Madagascar,181,995,23.12,3.19,1.96,4039.5,36,1,4,18,0,0,10,10,176
+MNN4,madagascar_hierarchical,Madagascar,181,996,22.26,3.2,2.01,4049.3,35.7,1,4,18,0,0,10,10,344
+MNN5,madagascar_hierarchical,Madagascar,181,997,22.25,3.25,2.02,4048.9,35.6,1,4,18,0,0,10,10,369
+MNN6,madagascar_hierarchical,Madagascar,181,998,22.27,3.25,2.02,4044.2,35.7,1,4,18,0,0,10,10,366
+MNN7,madagascar_hierarchical,Madagascar,181,999,22.29,3.2,2.01,4044,35.7,1,4,18,0,0,10,10,331
+RNF,madagascar,Madagascar,181,1000,18.29,7.39,2.51,2262.4,64.7,10,13,18,8.295,0,10,10,947
+ISL,madagascar,Madagascar,181,1001,20.51,11.1,2.53,1071.5,101.1,15,4.7,8.1,0.003,0,10,30,868
+ZVB,madagascar,Madagascar,181,1002,21.31,11.5,2.46,854.1,104.7,15,11.5,18,0.001,0,10,10,801
+BZM,madagascar,Madagascar,181,1003,25.55,12.11,2.63,526.9,104.5,8,11.2,22,0.8,0,10,10,143
+MKA,madagascar,Madagascar,181,1004,24.43,8.82,2.3,531.6,113.3,8,6,17.5,0,0,10,10,111
+TSP,madagascar,Madagascar,181,1005,25.32,9.38,2.51,392.1,101.2,6,5,12,0.587,0,20,20,8
+AHL,madagascar,Madagascar,181,1006,21.07,9.32,2.59,2415.5,48,9,9,10,0,0,10,10,257
+TGB,madagascar,Madagascar,181,1007,22.1,5.88,2.2,3739.6,38.9,1,4,18,0.057,0,10,10,101
+AZH,madagascar,Madagascar,181,1008,23.65,4.5,2.09,2425.8,44.8,1,6.4,18,0,0,10,10,13
+MKR1,madagascar_hierarchical,Madagascar,181,1009,20.76,5.85,2.32,3364.6,29.4,9,3.1,15.5,0,0,10,10,468
+MKR2,madagascar_hierarchical,Madagascar,181,1010,19.06,5.9,2.3,3240.9,31.1,10,3,8,0,0,10,10,845
+MKR3,madagascar_hierarchical,Madagascar,181,1011,19.34,6.1,2.31,3174.7,34.5,10,3,8,0,0,10,10,771
+MKR4,madagascar_hierarchical,Madagascar,181,1012,18.66,6.08,2.32,3339.8,31.8,10,3,8.9,0,0,10,10,888
+MKR5,madagascar_hierarchical,Madagascar,181,1013,20.33,5.9,2.32,3373.9,29.7,9,3,14.9,0,0,10,10,549
+MKR6,madagascar_hierarchical,Madagascar,181,1014,19.97,5.88,2.32,3342.3,29.8,10,3,13.1,0,0,10,10,591
+MKR7,madagascar_hierarchical,Madagascar,181,1015,20.54,5.83,2.33,3332.3,29.5,9,3,13.1,0,0,10,10,527
+Bavarian-National-Forest_Natural,Natural,Bavarian-National-Forest,281,1061,6.17,7.78,6.91,1523.9,17.3,19,10,27.8,0.296,0.0712,10,10,861
+Bavarian-National-Forest_Urban,Urban,Bavarian-National-Forest,281,1062,7.43,7.8,7.26,1329,17.5,19,40.5,42,17.847,7.6993,30,10,593
+Latnjajaure,Nordic,Latnjajaure,321,1121,-2.93,4.99,7.36,1410.1,27.7,30,1,5,0.001,0,30,30,989
+Robacksdalen,other,Robacksdalen,322,1122,3.75,4.85,7.77,762.4,28.7,20,30.2,54.6,0.491,26.2035,40,40,5
+Lonnstorp,other,Lonnstorp,323,1123,8.15,6.4,6.2,688.4,20.8,10,42.7,54.8,1.454,5.2175,40,40,13
+Mozambique_Natural,Natural,Mozambique,341,1141,24.85,9.3,2.2,1396.6,88.8,4,4,14,0,0,20,10,47
+Mozambique_Urban,Urban,Mozambique,341,1142,24.56,9.6,2.29,1170.5,92.8,4,15,19.1,69.152,2.0142,10,60,198
+RioDeJaneiro_Natural,Natural,RioDeJaneiro,342,1143,16.31,7.9,2.18,2405.8,64.2,10,10,15.8,0.02,0,10,10,1380
+RioDeJaneiro_Urban,Urban,RioDeJaneiro,342,1144,18.72,7.9,2.19,2452.1,63,10,3,14.3,0.463,0.4955,10,10,882
+Natal_Urban,Urban,Natal,343,1146,25.75,2.84,0.69,1532.5,67.3,4,32.3,38.6,2.747,16.8858,10,10,72
+Natal_Natural,Natural,Natal,343,1145,25.96,4.59,0.82,1270.6,65.2,4,8.4,31.2,0.048,1.9786,50,10,56
+Faroe_Natural,Natural,Faroe,344,1161,6.93,1.71,2.08,1813.6,33.6,11,7,18,0.023,0,30,30,52
+Faroe_Urban,Urban,Faroe,344,1162,6.84,2.07,2.22,2034.2,31.4,11,30.8,38,14.25,12.2345,30,30,32
+SaoTomePrincipe_Natural,Natural,SaoTomePrincipe,361,645,24.68,1.3,1.05,1691.1,57.6,4,7,18,0,0,NA,NA,NA
+SaoTomePrincipe_Urban,Urban,SaoTomePrincipe,361,1181,24.6,1.3,1,1369.6,57.2,4,14.9,22,1.541,0.1878,10,10,324
+NEGreenland,Natural,NEGreenland,381,1201,-10.73,3.5,8.74,362.2,34.6,30,0,4,0,NA,90,90,35
+Egerton_Natural,Natural,Egerton,382,1202,18.98,10.93,0.95,867.7,35.7,13,8.4,14,0,0,30,10,1777
+Egerton_Urban,Urban,Egerton,382,1203,16.37,10.8,1.02,1122.4,37.5,13,16.5,30.1,14.154,7.1662,30,10,2242
+NyAlesund,Natural,NyAlesund,421,1321,-5.5,3.23,5.89,604.8,31.3,30,0,4,0,NA,100,90,26
