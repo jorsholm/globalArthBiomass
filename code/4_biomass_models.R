@@ -100,6 +100,8 @@ dat_site$all <-
 
 ## Data subsets ----
 
+set.seed(999)
+
 # Random selection of one hierarchical site/cluster 
 # (run this once and use the result)
 keep_hierarchical <-
@@ -113,9 +115,6 @@ keep_hierarchical <-
   sample_n(1) |>
   pull(SITE)
 
-# Here 
-#keep_hierarchical <- c("SH5", "MRT6")
-
 dat_sample$no_hierarchical <- 
   dat_sample$all |> 
   filter(SITE_TYPE != "madagascar_hierarchical" &
@@ -127,6 +126,14 @@ dat_site$no_hierarchical <-
   filter(SITE_TYPE != "madagascar_hierarchical" &
            SITE_TYPE != "Nordic Hierarchical" | 
            SITE %in% keep_hierarchical) 
+
+
+### No imputed zeros ----
+
+dat_sample$no_zero <- 
+  dat_sample$all |> 
+  filter(!is.na(SAMPLE_WEIGHT))
+
 
 # SEASONALITY ANALYSIS ---------------------------------------------------------
 
@@ -623,3 +630,4 @@ spatial <- list(data = dat_site,
 #              sp_reml = spat_m_human), 
 #         "results/sp_results.rds", 
 #         compress = FALSE)
+  
